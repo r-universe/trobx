@@ -1,0 +1,10 @@
+{
+  "id": 91804348,
+  "created_at": "2025-10-27T10:49:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["fjoin", "trobx.r-universe.dev"]
+}
